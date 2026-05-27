@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenstringify",
+        "uuid": 9886565,
+        "checksum": "015z05"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
